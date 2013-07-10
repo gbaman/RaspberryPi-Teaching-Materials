@@ -14,3 +14,6 @@ PCBs are designed in Fritzing http://fritzing.org/
 A free open source piece of software for prototyping and making PCBs.
 
 All PCBs are currently UNTESTED. Use at your own risk.
+
+The final ready to use designs can be found in the PNGs folder.
+The designs are designed for use with the Roland Modela MDX-20 so also include drilling PNGs to allow you to auto drill the PCBs.
