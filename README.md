@@ -5,3 +5,5 @@ A set of work in progress materials for using the Raspberry Pi in the classroom 
 
 Alongside the course it is also recommended you check out the Shrimpy, our cheap educational robot for schools. Lasercuter designs and example code can be found at 
 https://github.com/Dalriada-Robotics/Shrimpy
+
+All work is licensed under the GNU General Public License. This can be found in the COPYING file.
